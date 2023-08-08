@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "55736EFC-C327-4048-99E3-CDE8237EA932"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E920C39-91C2-44FC-8789-CED0A2F9A9C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project7/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "filterContent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E920C39-91C2-44FC-8789-CED0A2F9A9C0 - 3a45725f2fa88cd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Project7.Petition) -&gt; Swift.Bool in closure #1 (__C.UIAlertAction) -&gt; () in Project7.ViewController.filterContent() -&gt; ()"
+                  moduleName = "Project7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prarthanadas/Documents/Miscellaneous/Hacking-With-Swift/Project7/Project7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "9E920C39-91C2-44FC-8789-CED0A2F9A9C0 - 3a45725f2fa88d27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Project7.Petition) -&gt; Swift.Bool in closure #1 (__C.UIAlertAction) -&gt; () in Project7.ViewController.filterContent() -&gt; ()"
+                  moduleName = "Project7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prarthanadas/Documents/Miscellaneous/Hacking-With-Swift/Project7/Project7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "9E920C39-91C2-44FC-8789-CED0A2F9A9C0 - 3a45725f2fa88cbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Project7.Petition) -&gt; Swift.Bool in closure #1 (__C.UIAlertAction) -&gt; () in Project7.ViewController.filterContent() -&gt; ()"
+                  moduleName = "Project7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prarthanadas/Documents/Miscellaneous/Hacking-With-Swift/Project7/Project7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "9E920C39-91C2-44FC-8789-CED0A2F9A9C0 - 8ff5a0393bebdc80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Project7.Petition) -&gt; Swift.Bool in closure #1 () -&gt; () in closure #1 (__C.UIAlertAction) -&gt; () in Project7.ViewController.filterContent() -&gt; ()"
+                  moduleName = "Project7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prarthanadas/Documents/Miscellaneous/Hacking-With-Swift/Project7/Project7/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4662A830-40D3-4E26-B3FA-66F6AB98BBFA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project7/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "filterContent()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
